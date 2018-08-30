@@ -16,8 +16,26 @@ modules:
    path: web
    requires:
      - name: spatial-uaa
-     - name: spatial-ui5
+     - name: js
+     - name: js_api
+       group: destinations
+       properties:
+         name: js_api
+         url: '~{url}'
+         forwardAuthToken: true
 
+ - name: js
+   type: nodejs
+   path: js
+   provides:
+    - name: js_api
+      properties:
+         url: ${default-url}
+   requires:
+     - name: spatial-db 
+     - name: db
+     - name: spatial-uaa
+     
 resources:
  - name: spatial-db
    parameters:
@@ -28,8 +46,3 @@ resources:
    type: com.sap.xs.hdi-container
  - name: spatial-uaa
    type: com.sap.xs.uaa-space 
- - name: spatial-ui5
-   type: org.cloudfoundry.managed-service
-   parameters:
-     service: sapui5_sb
-     service-plan: sapui5-1.52   

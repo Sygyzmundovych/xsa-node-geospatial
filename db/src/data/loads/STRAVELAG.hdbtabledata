@@ -5,10 +5,10 @@
             "target_table": "STRAVELAG",
             "source_data": {
                 "data_type": "CSV",
-                "file_name": "travel_agents.csv",
+                "file_name": "travel_agencies_latlng.csv",
                 "has_header": true,
                 "type_config" : { 
-                    "delimiter" : ";" 
+                    "delimiter" : "," 
                 } 
             },
             "import_settings": {
@@ -26,7 +26,8 @@
                     "URL",
                     "LANGU",
                     "CURRENCY",
-                    "LOC_4326"
+                    "LONGITUDE",
+                    "LATITUDE"
                 ]
             }
         }

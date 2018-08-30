@@ -1,11 +1,14 @@
 {
-    "welcomeFile": "index.html",
-    "authenticationMethod": "route",
-    "routes": [
-        {
-            "source": "/py(.*)",
-            "target": "$1",
-            "destination": "py"
-        }
-    ]
+	"welcomeFile": "index.html",
+	"authenticationMethod": "route",
+	"routes": [{
+		"source": "/node(.*)",
+		"destination": "js_api",
+		"csrfProtection": true,
+		"authenticationType": "xsuaa"
+	}, {
+		"source": "/(.*)",
+		"localDir": "resources",
+		"authenticationType": "xsuaa"
+	}]
 }

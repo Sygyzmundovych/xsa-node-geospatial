@@ -18,7 +18,6 @@
                     "NAME", 
                     "LATITUDE", 
                     "LONGITUDE", 
-                    "LOC_4326", 
                     "CONTINENT", 
                     "ISO_COUNTRY", 
                     "ISO_REGION", 

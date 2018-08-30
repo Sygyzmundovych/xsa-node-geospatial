@@ -6,6 +6,7 @@
 		"@sap/logging": "~3.4",
 		"express": "~4.16",
 		"passport": "~0.4.0",
+		"socket.io": "latest",
 		"ws": "1.1.1"
 	},
 	"devDependencies": {

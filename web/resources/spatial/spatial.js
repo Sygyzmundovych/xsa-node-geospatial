@@ -51,8 +51,9 @@ require([
 
 	//start websocket connection
 	var globalSocket;
-	var websocketPromise = new Promise((resolve, reject) => {
-		var socket = io.connect('wss://py.hanapm.local.com:30033/geospatial');
+	var websocketPromise = new Promise((resolve, reject) => { 
+		var socket = io.connect("", {path: "/node/geospatial"});
+	//	var socket = io.connect("wss://6clfdaj5icdrd1kbde-geospatial-web.hanapm.local.com:30033/node/geospatial");
 		socket.on('open', resolve(socket));
 		socket.on('error', reject());
 	});

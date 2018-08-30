@@ -4,7 +4,6 @@
 "use strict";
 var xsenv = require("@sap/xsenv");
 var port = process.env.PORT || 3000;
-var server = require("http").createServer();
 global.__base = __dirname + "/";
 
 //Initialize Express App for XSA UAA and HDBEXT Middleware
@@ -42,11 +41,12 @@ app.use(
 	xsHDBConn.middleware(hanaOptions.hana)
 );
 
+var server = require("http").createServer(app);
 //Setup Routes
 var router = require("./router")(app, server);
 
 //Start the Server 
-server.on("request", app);
+//server.on("request", app);
 server.listen(port, function () {
 	logger.info(`HTTP Server: ${server.address().port}`);
 	console.info(`HTTP Server: ${server.address().port}`);

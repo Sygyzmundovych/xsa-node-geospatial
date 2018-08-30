@@ -1,0 +1,35 @@
+ID: xsa-node-geospatial
+_schema-version: '2.1'
+description: Demo map visualization application built on SAP HANA XSA using ArcGIS and Node.js
+version: 1.0.2018
+
+modules:
+ - name: db
+   type: hdb
+   path: db
+   requires:
+    - name: spatial-db
+      properties:
+        TARGET_CONTAINER: '~{hdi-container-name}'
+ - name: web
+   type: html5
+   path: web
+   requires:
+     - name: spatial-uaa
+     - name: spatial-ui5
+
+resources:
+ - name: spatial-db
+   parameters:
+      config:
+         schema: SPATIAL_DB_DEMO
+   properties:
+      hdi-container-name: ${service-name}
+   type: com.sap.xs.hdi-container
+ - name: spatial-uaa
+   type: com.sap.xs.uaa-space 
+ - name: spatial-ui5
+   type: org.cloudfoundry.managed-service
+   parameters:
+     service: sapui5_sb
+     service-plan: sapui5-1.52   

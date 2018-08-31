@@ -54,8 +54,8 @@ io.on("connection", (socket) => {
 		});
 
 		//Polygon Drawn
-		socket.on("polygonDrawn", (data, cb) => {
-			require("./events/polygonDrawn")(socket, data, cb);
+		socket.on("polygonDrawn", (polygonCoord, cb) => {
+			require("./events/polygonDrawn")(socket, polygonCoord, cb);
 		});
 
 		socket.on("disconnect", () => {

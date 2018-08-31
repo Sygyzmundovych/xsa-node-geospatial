@@ -1,0 +1,571 @@
+ID,TYPE,NAME,LATITUDE,LONGITUDE,LOC_4326,CONTINENT,ISO_COUNTRY,ISO_REGION,MUNICIPALITY,SCHEDULED_SERVICE,IATA_CODE
+45229,large_airport,Mar de CortÃ©s International Airport,31.351621,-113.305864,,NA,MX,MX-SON,Puerto PeÃ±asco,yes,PPE
+67,large_airport,Port Moresby Jacksons International Airport,-9.443380356,147.2200012,,OC,PG,PG-NCD,Port Moresby,yes,POM
+123,large_airport,Keflavik International Airport,63.98500061,-22.60560036,,EU,IS,IS-2,ReykjavÃ­k,yes,KEF
+4614,large_airport,PriÅ¡tina International Airport,42.5728,21.035801,,EU,XK,XK-01,Prishtina,yes,PRN
+1717,large_airport,Edmonton International Airport,53.30970001,-113.5800018,,NA,CA,CA-AB,Edmonton,yes,YEG
+1770,large_airport,Halifax / Stanfield International Airport,44.88079834,-63.50859833,,NA,CA,CA-NS,Halifax,yes,YHZ
+1840,large_airport,Ottawa Macdonald-Cartier International Airport,45.32249832,-75.66919708,,NA,CA,CA-ON,Ottawa,yes,YOW
+1928,large_airport,Montreal / Pierre Elliott Trudeau International Airport,45.47060013,-73.74079895,,NA,CA,CA-QC,MontrÃ©al,yes,YUL
+1941,large_airport,Vancouver International Airport,49.19390106,-123.1839981,,NA,CA,CA-BC,Vancouver,yes,YVR
+1946,large_airport,Winnipeg / James Armstrong Richardson International Airport,49.90999985,-97.23989868,,NA,CA,CA-MB,Winnipeg,yes,YWG
+1973,large_airport,Calgary International Airport,51.11389923,-114.0199966,,NA,CA,CA-AB,Calgary,yes,YYC
+1979,large_airport,Victoria International Airport,48.64690018,-123.4260025,,NA,CA,CA-BC,Victoria,yes,YYJ
+1986,large_airport,St. John's International Airport,47.61859894,-52.75189972,,NA,CA,CA-NL,St. John's,yes,YYT
+1990,large_airport,Lester B. Pearson International Airport,43.67720032,-79.63059998,,NA,CA,CA-ON,Toronto,yes,YYZ
+2050,large_airport,Houari Boumediene Airport,36.69100189,3.215409994,,AF,DZ,DZ-35,Algiers,yes,ALG
+2090,large_airport,Kotoka International Airport,5.6051898,-0.166786,,AF,GH,GH-AA,Accra,yes,ACC
+2104,large_airport,Nnamdi Azikiwe International Airport,9.006790161,7.263169765,,AF,NG,NG-FC,Abuja,yes,ABV
+309668,large_airport,Akwa Ibom International Airport,4.8725,8.093,,AF,NG,NG-AK,Uyo,yes,QUO
+2115,large_airport,Mallam Aminu International Airport,12.0476,8.52462,,AF,NG,NG-KN,Kano,yes,KAN
+2118,large_airport,Murtala Muhammed International Airport,6.577370167,3.321160078,,AF,NG,NG-LA,Lagos,yes,LOS
+2133,large_airport,Tunis Carthage International Airport,36.85100174,10.22719955,,AF,TN,TN-11,Tunis,yes,TUN
+2155,large_airport,Brussels Airport,50.90140152,4.48443985,,EU,BE,BE-BRU,Brussels,yes,BRU
+2157,large_airport,Brussels South Charleroi Airport,50.459202,4.45382,,EU,BE,BE-WHT,Brussels,yes,CRL
+2162,large_airport,LiÃ¨ge Airport,50.63740158,5.443220139,,EU,BE,BE-WLG,LiÃ¨ge,yes,LGG
+2209,large_airport,Berlin-SchÃ¶nefeld Airport,52.380001,13.5225,,EU,DE,DE-BR,Berlin,yes,SXF
+2210,large_airport,Dresden Airport,51.13280106,13.76720047,,EU,DE,DE-SN,Dresden,yes,DRS
+2212,large_airport,Frankfurt am Main Airport,50.033333,8.570556,,EU,DE,DE-HE,Frankfurt am Main,yes,FRA
+2213,large_airport,MÃ¼nster OsnabrÃ¼ck Airport,52.13460159,7.684830189,,EU,DE,DE-NW,MÃ¼nster,yes,FMO
+2214,large_airport,Hamburg Airport,53.63040161,9.988229752,,EU,DE,DE-HH,Hamburg,yes,HAM
+2216,large_airport,Cologne Bonn Airport,50.86589813,7.142739773,,EU,DE,DE-NW,Cologne,yes,CGN
+2217,large_airport,DÃ¼sseldorf Airport,51.289501,6.76678,,EU,DE,DE-NW,DÃ¼sseldorf,yes,DUS
+2218,large_airport,Munich Airport,48.353802,11.7861,,EU,DE,DE-BY,Munich,yes,MUC
+2219,large_airport,Nuremberg Airport,49.498699,11.078056,,EU,DE,DE-BY,Nuremberg,yes,NUE
+2220,large_airport,Leipzig/Halle Airport,51.423889,12.236389,,EU,DE,DE-SN,Leipzig,yes,LEJ
+2222,large_airport,Stuttgart Airport,48.68989944,9.221960068,,EU,DE,DE-BW,Stuttgart,yes,STR
+2223,large_airport,Berlin-Tegel Airport,52.5597,13.2877,,EU,DE,DE-BE,Berlin,yes,TXL
+2224,large_airport,Hannover Airport,52.46110153,9.685079575,,EU,DE,DE-NI,Hannover,yes,HAJ
+2225,large_airport,Bremen Airport,53.04750061,8.786669731,,EU,DE,DE-HB,Bremen,yes,BRE
+2247,large_airport,Dortmund Airport,51.5182991,7.612239838,,EU,DE,DE-NW,Dortmund,yes,DTM
+2270,large_airport,Karlsruhe Baden-Baden Airport,48.77939987,8.080499649,,EU,DE,DE-BW,Baden-Baden,yes,FKB
+2301,large_airport,Lennart Meri Tallinn Airport,59.41329956,24.83279991,,EU,EE,EE-37,Tallinn,yes,TLL
+2307,large_airport,Helsinki Vantaa Airport,60.31719971,24.9633007,,EU,FI,FI-ES,Helsinki,yes,HEL
+2385,large_airport,Belfast International Airport,54.65750122,-6.215829849,,EU,GB,GB-NIR,Belfast,yes,BFS
+2387,large_airport,George Best Belfast City Airport,54.61809921,-5.872499943,,EU,GB,GB-NIR,Belfast,yes,BHD
+2389,large_airport,Birmingham International Airport,52.45389938,-1.748029947,,EU,GB,GB-ENG,Birmingham,yes,BHX
+2401,large_airport,Robin Hood Doncaster Sheffield Airport,53.48053781,-1.010656357,,EU,GB,GB-ENG,Doncaster,yes,DSA
+2415,large_airport,Cardiff International Airport,51.39670181,-3.343329906,,EU,GB,GB-WLS,Cardiff,yes,CWL
+2417,large_airport,Bristol Airport,51.382702,-2.71909,,EU,GB,GB-ENG,Bristol,yes,BRS
+2418,large_airport,Liverpool John Lennon Airport,53.33359909,-2.849720001,,EU,GB,GB-ENG,Liverpool,yes,LPL
+2419,large_airport,London Luton Airport,51.87469864,-0.368333012,,EU,GB,GB-ENG,London,yes,LTN
+2421,large_airport,Bournemouth Airport,50.77999878,-1.842499971,,EU,GB,GB-ENG,Bournemouth,yes,BOH
+2422,large_airport,Southampton Airport,50.95029831,-1.35679996,,EU,GB,GB-ENG,Southampton,yes,SOU
+2429,large_airport,London Gatwick Airport,51.14810181,-0.190277994,,EU,GB,GB-ENG,London,yes,LGW
+2434,large_airport,London Heathrow Airport,51.4706,-0.461941,,EU,GB,GB-ENG,London,yes,LHR
+2444,large_airport,Leeds Bradford Airport,53.86589813,-1.660570025,,EU,GB,GB-ENG,Leeds,yes,LBA
+2448,large_airport,Newcastle Airport,55.03749847,-1.691669941,,EU,GB,GB-ENG,Newcastle,yes,NCL
+2450,large_airport,East Midlands Airport,52.83110046,-1.328060031,,EU,GB,GB-ENG,Nottingham,yes,EMA
+2459,large_airport,Aberdeen Dyce Airport,57.20190048,-2.197779894,,EU,GB,GB-SCT,Aberdeen,yes,ABZ
+2461,large_airport,Glasgow International Airport,55.87189865,-4.433060169,,EU,GB,GB-SCT,Glasgow,yes,GLA
+2462,large_airport,Edinburgh Airport,55.95000076,-3.372499943,,EU,GB,GB-SCT,Edinburgh,yes,EDI
+2475,large_airport,Norwich International Airport,52.67580032,1.282780051,,EU,GB,GB-ENG,Norwich,yes,NWI
+2476,large_airport,London Stansted Airport,51.88499832,0.234999999,,EU,GB,GB-ENG,London,yes,STN
+2481,large_airport,Exeter International Airport,50.7344017,-3.413889885,,EU,GB,GB-ENG,Exeter,yes,EXT
+2487,large_airport,RAF Lakenheath,52.40930176,0.56099999,,EU,GB,GB-ENG,Lakenheath,no,LKZ
+2488,large_airport,RAF Mildenhall,52.36190033,0.486405998,,EU,GB,GB-ENG,Mildenhall,no,MHZ
+2492,large_airport,RAF Fairford,51.68220139,-1.790030003,,EU,GB,GB-ENG,Fairford,no,FFD
+2493,large_airport,RAF Brize Norton,51.75,-1.58362,,EU,GB,GB-ENG,Brize Norton,yes,BZZ
+2513,large_airport,Amsterdam Airport Schiphol,52.30860138,4.76388979,,EU,NL,NL-NH,Amsterdam,yes,AMS
+2515,large_airport,Maastricht Aachen Airport,50.9117012,5.770140171,,EU,NL,NL-LI,Maastricht,yes,MST
+2518,large_airport,Eindhoven Airport,51.45009995,5.374529839,,EU,NL,NL-NB,Eindhoven,yes,EIN
+2530,large_airport,Cork Airport,51.84130096,-8.491109848,,EU,IE,IE-C,Cork,yes,ORK
+2533,large_airport,Dublin Airport,53.421299,-6.27007,,EU,IE,IE-D,Dublin,yes,DUB
+2537,large_airport,Shannon Airport,52.70199966,-8.924819946,,EU,IE,IE-CE,Limerick,yes,SNN
+2541,large_airport,Billund Airport,55.74029922,9.151780128,,EU,DK,DK-83,Billund,yes,BLL
+2542,large_airport,Copenhagen Kastrup Airport,55.61790085,12.65600014,,EU,DK,DK-84,Copenhagen,yes,CPH
+2562,large_airport,Aalborg Airport,57.09275891,9.849243164,,EU,DK,DK-81,Aalborg,yes,AAL
+2563,large_airport,Luxembourg-Findel International Airport,49.6233333,6.2044444,,EU,LU,LU-L,Luxembourg,yes,LUX
+2569,large_airport,BodÃ¸ Airport,67.26920319,14.36530018,,EU,NO,NO-18,BodÃ¸,yes,BOO
+2570,large_airport,Bergen Airport Flesland,60.29339981,5.218140125,,EU,NO,NO-12,Bergen,yes,BGO
+2578,large_airport,Oslo Gardermoen Airport,60.19390106,11.10039997,,EU,NO,NO-02,Oslo,yes,OSL
+2599,large_airport,TromsÃ¸ Airport,69.6832962,18.91889954,,EU,NO,NO-19,TromsÃ¸,yes,TOS
+2601,large_airport,Trondheim Airport VÃ¦rnes,63.4578018,10.9239998,,EU,NO,NO-17,Trondheim,yes,TRD
+2602,large_airport,Stavanger Airport Sola,58.87670135,5.63778019,,EU,NO,NO-11,Stavanger,yes,SVG
+2608,large_airport,GdaÅ„sk Lech WaÅ‚Ä™sa Airport,54.37760162,18.46619987,,EU,PL,PL-PM,GdaÅ„sk,yes,GDN
+2609,large_airport,John Paul II International Airport KrakÃ³w-Balice Airport,50.07770157,19.78479958,,EU,PL,PL-MA,KrakÃ³w,yes,KRK
+2613,large_airport,Katowice International Airport,50.4743,19.08,,EU,PL,PL-SL,Katowice,yes,KTW
+2622,large_airport,Modlin Airport,52.4510994,20.65180016,,EU,PL,PL-MZ,Warsaw,yes,WMI
+2625,large_airport,PoznaÅ„-Åawica Airport,52.42100143,16.82629967,,EU,PL,PL-WP,PoznaÅ„,yes,POZ
+2637,large_airport,Warsaw Chopin Airport,52.16569901,20.96710014,,EU,PL,PL-MZ,Warsaw,yes,WAW
+2638,large_airport,Copernicus WrocÅ‚aw Airport,51.10269928,16.88579941,,EU,PL,PL-DS,WrocÅ‚aw,yes,WRO
+2648,large_airport,Gothenburg-Landvetter Airport,57.66279984,12.27980042,,EU,SE,SE-Q,Gothenburg,yes,GOT
+2669,large_airport,MalmÃ¶ Sturup Airport,55.53630536,13.37619781,,EU,SE,SE-M,MalmÃ¶,yes,MMX
+2697,large_airport,LuleÃ¥ Airport,65.54380035,22.12199974,,EU,SE,SE-BD,LuleÃ¥,yes,LLA
+2701,large_airport,Stockholm-Arlanda Airport,59.65190125,17.91860008,,EU,SE,SE-AB,Stockholm,yes,ARN
+2718,large_airport,Ramstein Air Base,49.43690109,7.600279808,,EU,DE,DE-RP,Ramstein,no,RMS
+2758,large_airport,Riga International Airport,56.92359924,23.97109985,,EU,LV,LV-RIX,Riga,yes,RIX
+2766,large_airport,Vilnius International Airport,54.634102,25.285801,,EU,LT,LT-VL,Vilnius,yes,VNO
+2775,large_airport,Cape Town International Airport,-33.96480179,18.60169983,,AF,ZA,ZA-WC,Cape Town,yes,CPT
+2783,large_airport,George Airport,-34.0056,22.378902,,AF,ZA,ZA-WC,George,yes,GRJ
+300795,large_airport,King Shaka International Airport,-29.61444444,31.11972222,,AF,ZA,ZA-NL,Durban,yes,DUR
+2792,large_airport,OR Tambo International Airport,-26.1392,28.246,,AF,ZA,ZA-GT,Johannesburg,yes,JNB
+31055,large_airport,OR Tambo International Airport,-26.1392,28.246,,AF,ZA,ZA-GT,Johannesburg,yes,JNB
+2879,large_airport,Sir Charles Gaetan Duval Airport,-19.7577,63.361,,AF,MU,MU-VP,Port Mathurin,yes,RRG
+2894,large_airport,Kenneth Kaunda International Airport Lusaka,-15.33080006,28.45260048,,AF,ZM,ZM-09,Lusaka,yes,LUN
+3081,large_airport,Gran Canaria Airport,27.93190002,-15.38659954,,EU,ES,ES-CN,Gran Canaria Island,yes,LPA
+3083,large_airport,Tenerife South Airport,28.04450035,-16.57250023,,EU,ES,ES-CN,Tenerife Island,yes,TFS
+3084,large_airport,Tenerife Norte Airport,28.48270035,-16.34149933,,EU,ES,ES-CN,Tenerife Island,yes,TFN
+3113,large_airport,Mohammed V International Airport,33.36750031,-7.589970112,,AF,MA,MA-CAS,Casablanca,yes,CMN
+325736,large_airport,Diass-Thies Blaise Diagne International Airport,14.67,-17.07333333,,AF,SN,SN-DK,Dakar,yes,DSS
+3125,large_airport,LÃ©opold SÃ©dar Senghor International Airport,14.73970032,-17.49020004,,AF,SN,SN-DK,Dakar,yes,DKR
+323315,large_airport,Nouakchottâ€“Oumtounsy International Airport,18.31,-15.9697222,,AF,MR,MR-NKC,Nouakchott,yes,NKC
+3157,large_airport,Addis Ababa Bole International Airport,8.977890015,38.79930115,,AF,ET,ET-AA,Addis Ababa,yes,ADD
+3183,large_airport,Cairo International Airport,30.12190056,31.40559959,,AF,EG,EG-C,Cairo,yes,CAI
+3186,large_airport,Hurghada International Airport,27.17830086,33.79940033,,AF,EG,EG-BA,Hurghada,yes,HRG
+3191,large_airport,Luxor International Airport,25.671,32.7066,,AF,EG,EG-KN,Luxor,yes,LXR
+3206,large_airport,Jomo Kenyatta International Airport,-1.319239974,36.92779922,,AF,KE,KE-110,Nairobi,yes,NBO
+3213,large_airport,Mombasa Moi International Airport,-4.034830093,39.59420013,,AF,KE,KE-300,Mombasa,yes,MBA
+3227,large_airport,Tripoli International Airport,32.66350174,13.1590004,,AF,LY,LY-TB,Tripoli,yes,TIP
+3247,large_airport,Juba International Airport,4.872010231,31.60110092,,AF,SS,SS-17,Juba,yes,JUB
+3249,large_airport,Khartoum International Airport,15.58950043,32.55319977,,AF,SD,SD-03,Khartoum,yes,KRT
+3251,large_airport,Julius Nyerere International Airport,-6.87811,39.202599,,AF,TZ,TZ-02,Dar es Salaam,yes,DAR
+16091,large_airport,Albuquerque International Sunport Airport,35.040199,-106.609001,,NA,US,US-NM,Albuquerque,yes,ABQ
+3364,large_airport,Andrews Air Force Base,38.810799,-76.866997,,NA,US,US-MD,Camp Springs,no,ADW
+3366,large_airport,Fort Worth Alliance Airport,32.98759842,-97.31880188,,NA,US,US-TX,Fort Worth,no,AFW
+3368,large_airport,Augusta Regional At Bush Field,33.36989975,-81.96450043,,NA,US,US-GA,Augusta,yes,AGS
+3377,large_airport,Rick Husband Amarillo International Airport,35.219398,-101.706001,,NA,US,US-TX,Amarillo,yes,AMA
+3384,large_airport,Hartsfield Jackson Atlanta International Airport,33.63669968,-84.42810059,,NA,US,US-GA,Atlanta,yes,ATL
+3386,large_airport,Austin Bergstrom International Airport,30.19449997,-97.66989899,,NA,US,US-TX,Austin,yes,AUS
+3387,large_airport,Asheville Regional Airport,35.43619919,-82.54180145,,NA,US,US-NC,Asheville,yes,AVL
+3391,large_airport,Beale Air Force Base,39.13610077,-121.4369965,,NA,US,US-CA,Marysville,no,BAB
+3392,large_airport,Barksdale Air Force Base,32.50180054,-93.66269684,,NA,US,US-LA,Bossier City,no,BAD
+3396,large_airport,Bradley International Airport,41.93889999,-72.68319702,,NA,US,US-CT,Hartford,yes,BDL
+3401,large_airport,Boeing Field King County International Airport,47.52999878,-122.302002,,NA,US,US-WA,Seattle,yes,BFI
+3405,large_airport,Bangor International Airport,44.80739975,-68.82810211,,NA,US,US-ME,Bangor,yes,BGR
+3406,large_airport,Birmingham-Shuttlesworth International Airport,33.56290054,-86.75350189,,NA,US,US-AL,Birmingham,yes,BHM
+3408,large_airport,Billings Logan International Airport,45.80770111,-108.5429993,,NA,US,US-MT,Billings,yes,BIL
+3417,large_airport,Scott AFB/Midamerica Airport,38.5452,-89.835197,,NA,US,US-IL,Belleville,yes,BLV
+3419,large_airport,Central Illinois Regional Airport at Bloomington-Normal,40.47710037,-88.91590118,,NA,US,US-IL,Bloomington/Normal,yes,BMI
+3420,large_airport,Nashville International Airport,36.12450027,-86.67819977,,NA,US,US-TN,Nashville,yes,BNA
+3421,large_airport,Boise Air Terminal/Gowen field,43.56439972,-116.2229996,,NA,US,US-ID,Boise,yes,BOI
+3422,large_airport,General Edward Lawrence Logan International Airport,42.36429977,-71.00520325,,NA,US,US-MA,Boston,yes,BOS
+3429,large_airport,"Baton Rouge Metropolitan, Ryan Field",30.53319931,-91.14959717,,NA,US,US-LA,Baton Rouge,yes,BTR
+3431,large_airport,Buffalo Niagara International Airport,42.94049835,-78.73220062,,NA,US,US-NY,Buffalo,yes,BUF
+3435,large_airport,Baltimore/Washington International Thurgood Marshall Airport,39.17539978,-76.66829681,,NA,US,US-MD,Baltimore,yes,BWI
+3438,large_airport,Columbia Metropolitan Airport,33.93880081,-81.11949921,,NA,US,US-SC,Columbia,yes,CAE
+3441,large_airport,Columbus Air Force Base,33.64379883,-88.44380188,,NA,US,US-MS,Columbus,no,CBM
+3448,large_airport,Lovell Field,35.03530121,-85.20379639,,NA,US,US-TN,Chattanooga,yes,CHA
+3450,large_airport,Charleston Air Force Base-International Airport,32.89860153,-80.04049683,,NA,US,US-SC,Charleston,yes,CHS
+3451,large_airport,The Eastern Iowa Airport,41.88470078,-91.71080017,,NA,US,US-IA,Cedar Rapids,yes,CID
+3454,large_airport,Cleveland Hopkins International Airport,41.4117012,-81.84980011,,NA,US,US-OH,Cleveland,yes,CLE
+3457,large_airport,Charlotte Douglas International Airport,35.2140007,-80.94309998,,NA,US,US-NC,Charlotte,yes,CLT
+3458,large_airport,John Glenn Columbus International Airport,39.998001,-82.891899,,NA,US,US-OH,Columbus,yes,CMH
+3463,large_airport,City of Colorado Springs Municipal Airport,38.80580139,-104.7009964,,NA,US,US-CO,Colorado Springs,yes,COS
+3465,large_airport,Casper-Natrona County International Airport,42.90800095,-106.4639969,,NA,US,US-WY,Casper,yes,CPR
+3466,large_airport,Corpus Christi International Airport,27.77039909,-97.50119781,,NA,US,US-TX,Corpus Christi,yes,CRP
+3467,large_airport,Yeager Airport,38.37310028,-81.59320068,,NA,US,US-WV,Charleston,yes,CRW
+3471,large_airport,Cincinnati Northern Kentucky International Airport,39.04880142,-84.6678009,,NA,US,US-KY,Cincinnati,yes,CVG
+3473,large_airport,Cannon Air Force Base,34.38280106,-103.3219986,,NA,US,US-NM,Clovis,no,CVS
+3478,large_airport,Daytona Beach International Airport,29.179899,-81.058098,,NA,US,US-FL,Daytona Beach,yes,DAB
+3479,large_airport,Dallas Love Field,32.847099,-96.851799,,NA,US,US-TX,Dallas,yes,DAL
+3481,large_airport,James M Cox Dayton International Airport,39.90240097,-84.2193985,,NA,US,US-OH,Dayton,yes,DAY
+3482,large_airport,Dubuque Regional Airport,42.40200043,-90.70950317,,NA,US,US-IA,Dubuque,yes,DBQ
+3483,large_airport,Ronald Reagan Washington National Airport,38.8521,-77.037697,,NA,US,US-DC,Washington,yes,DCA
+3486,large_airport,Denver International Airport,39.86169815,-104.6729965,,NA,US,US-CO,Denver,yes,DEN
+3488,large_airport,Dallas Fort Worth International Airport,32.89680099,-97.03800201,,NA,US,US-TX,Dallas-Fort Worth,yes,DFW
+3490,large_airport,Laughlin Air Force Base,29.35950089,-100.7779999,,NA,US,US-TX,Del Rio,no,DLF
+3491,large_airport,Duluth International Airport,46.84209824,-92.19360352,,NA,US,US-MN,Duluth,yes,DLH
+3494,large_airport,Dover Air Force Base,39.12950134,-75.46600342,,NA,US,US-DE,Dover,no,DOV
+3496,large_airport,Des Moines International Airport,41.5340004,-93.6631012,,NA,US,US-IA,Des Moines,yes,DSM
+3497,large_airport,Detroit Metropolitan Wayne County Airport,42.21239853,-83.35340118,,NA,US,US-MI,Detroit,yes,DTW
+3499,large_airport,Dyess Air Force Base,32.42079926,-99.854599,,NA,US,US-TX,Abilene,no,DYS
+3503,large_airport,Edwards Air Force Base,34.905399,-117.884003,,NA,US,US-CA,Edwards,no,EDW
+3513,large_airport,Vance Air Force Base,36.33919907,-97.91649628,,NA,US,US-OK,Enid,no,END
+3515,large_airport,Erie International Tom Ridge Field,42.08312701,-80.17386675,,NA,US,US-PA,Erie,yes,ERI
+3521,large_airport,Newark Liberty International Airport,40.69250107,-74.16870117,,NA,US,US-NJ,Newark,yes,EWR
+3528,large_airport,Wright-Patterson Air Force Base,39.8260994,-84.0483017,,NA,US,US-OH,Dayton,no,FFO
+3531,large_airport,Fort Lauderdale Hollywood International Airport,26.07259941,-80.15270233,,NA,US,US-FL,Fort Lauderdale,yes,FLL
+3543,large_airport,Fort Smith Regional Airport,35.33660126,-94.36740112,,NA,US,US-AR,Fort Smith,yes,FSM
+3545,large_airport,Fort Worth Meacham International Airport,32.819801,-97.362396,,NA,US,US-TX,Fort Worth,no,FTW
+3547,large_airport,Fort Wayne International Airport,40.97850037,-85.19509888,,NA,US,US-IN,Fort Wayne,yes,FWA
+3552,large_airport,Spokane International Airport,47.61989975,-117.5339966,,NA,US,US-WA,Spokane,yes,GEG
+3561,large_airport,Gulfport Biloxi International Airport,30.40730095,-89.07009888,,NA,US,US-MS,Gulfport,yes,GPT
+3562,large_airport,Austin Straubel International Airport,44.48509979,-88.12960052,,NA,US,US-WI,Green Bay,yes,GRB
+3567,large_airport,Seymour Johnson Air Force Base,35.33940125,-77.96060181,,NA,US,US-NC,Goldsboro,no,GSB
+3568,large_airport,Piedmont Triad International Airport,36.09780121,-79.93730164,,NA,US,US-NC,Greensboro,yes,GSO
+3569,large_airport,Greenville Spartanburg International Airport,34.89569855,-82.21890259,,NA,US,US-SC,Greenville,yes,GSP
+3573,large_airport,Grissom Air Reserve Base,40.64810181,-86.15209961,,NA,US,US-IN,Peru,no,GUS
+3579,large_airport,Range Regional Airport,47.38660049,-92.83899689,,NA,US,US-MN,Hibbing,yes,HIB
+3584,large_airport,Holloman Air Force Base,32.85250092,-106.1070023,,NA,US,US-NM,Alamogordo,no,HMN
+3588,large_airport,William P Hobby Airport,29.64539909,-95.27890015,,NA,US,US-TX,Houston,yes,HOU
+3594,large_airport,Huntsville International Carl T Jones Field,34.6371994,-86.77510071,,NA,US,US-AL,Huntsville,yes,HSV
+3595,large_airport,Tri-State/Milton J. Ferguson Field,38.36669922,-82.55799866,,NA,US,US-WV,Huntington,yes,HTS
+3602,large_airport,Washington Dulles International Airport,38.94449997,-77.45580292,,NA,US,US-DC,Washington,yes,IAD
+3604,large_airport,George Bush Intercontinental Houston Airport,29.9843998,-95.34140015,,NA,US,US-TX,Houston,yes,IAH
+3605,large_airport,Wichita Mid Continent Airport,37.64989853,-97.43309784,,NA,US,US-KS,Wichita,yes,ICT
+3610,large_airport,Indianapolis International Airport,39.7173,-86.294403,,NA,US,US-IN,Indianapolis,yes,IND
+3619,large_airport,Jackson-Medgar Wiley Evers International Airport,32.31119919,-90.07589722,,NA,US,US-MS,Jackson,yes,JAN
+3620,large_airport,Jacksonville International Airport,30.49410057,-81.68789673,,NA,US,US-FL,Jacksonville,yes,JAX
+3622,large_airport,John F Kennedy International Airport,40.63980103,-73.77890015,,NA,US,US-NY,New York,yes,JFK
+3623,large_airport,Joplin Regional Airport,37.15179825,-94.49829865,,NA,US,US-MO,Joplin,yes,JLN
+3631,large_airport,McCarran International Airport,36.08010101,-115.1520004,,NA,US,US-NV,Las Vegas,yes,LAS
+3632,large_airport,Los Angeles International Airport,33.94250107,-118.4079971,,NA,US,US-CA,Los Angeles,yes,LAX
+3633,large_airport,Lubbock Preston Smith International Airport,33.663601,-101.822998,,NA,US,US-TX,Lubbock,yes,LBB
+3638,large_airport,Rickenbacker International Airport,39.813801,-82.927803,,NA,US,US-OH,Columbus,yes,LCK
+3640,large_airport,Blue Grass Airport,38.03649902,-84.60590363,,NA,US,US-KY,Lexington,yes,LEX
+3641,large_airport,Langley Air Force Base,37.082901,-76.36049652,,NA,US,US-VA,Hampton,no,LFI
+3642,large_airport,Lafayette Regional Airport,30.20529938,-91.98760223,,NA,US,US-LA,Lafayette,yes,LFT
+3643,large_airport,La Guardia Airport,40.77719879,-73.87259674,,NA,US,US-NY,New York,yes,LGA
+3645,large_airport,Bill & Hillary Clinton National Airport/Adams Field,34.72940063,-92.22429657,,NA,US,US-AR,Little Rock,yes,LIT
+3657,large_airport,Altus Air Force Base,34.667099,-99.26670074,,NA,US,US-OK,Altus,no,LTS
+3658,large_airport,Luke Air Force Base,33.53499985,-112.3830032,,NA,US,US-AZ,Glendale,no,LUF
+3664,large_airport,MBS International Airport,43.53290176,-84.07959747,,NA,US,US-MI,Saginaw,yes,MBS
+3667,large_airport,Mac Dill Air Force Base,27.84930038,-82.52120209,,NA,US,US-FL,Tampa,no,MCF
+3668,large_airport,Kansas City International Airport,39.2976,-94.713898,,NA,US,US-MO,Kansas City,yes,MCI
+3670,large_airport,Orlando International Airport,28.42939949,-81.30899811,,NA,US,US-FL,Orlando,yes,MCO
+3673,large_airport,Chicago Midway International Airport,41.7859993,-87.75240326,,NA,US,US-IL,Chicago,yes,MDW
+3675,large_airport,Memphis International Airport,35.04240036,-89.97669983,,NA,US,US-TN,Memphis,yes,MEM
+3680,large_airport,Dobbins Air Reserve Base,33.91540146,-84.51629639,,NA,US,US-GA,Marietta,no,MGE
+3681,large_airport,Montgomery Regional (Dannelly Field) Airport,32.30059814,-86.39399719,,NA,US,US-AL,Montgomery,yes,MGM
+2398,large_airport,Manchester Airport,53.35369873,-2.274950027,,EU,GB,GB-ENG,Manchester,yes,MAN
+3684,large_airport,Manchester Airport,42.93259811,-71.43569946,,NA,US,US-NH,Manchester,yes,MHT
+3685,large_airport,Miami International Airport,25.79319954,-80.29060364,,NA,US,US-FL,Miami,yes,MIA
+3690,large_airport,General Mitchell International Airport,42.94720078,-87.89659882,,NA,US,US-WI,Milwaukee,yes,MKE
+3695,large_airport,Quad City International Airport,41.44850159,-90.50749969,,NA,US,US-IL,Moline,yes,MLI
+3697,large_airport,Monroe Regional Airport,32.51089859,-92.03769684,,NA,US,US-LA,Monroe,yes,MLU
+3700,large_airport,Mobile Regional Airport,30.69120026,-88.24279785,,NA,US,US-AL,Mobile,yes,MOB
+3707,large_airport,Dane County Regional Truax Field,43.13990021,-89.33750153,,NA,US,US-WI,Madison,yes,MSN
+3709,large_airport,Minneapolis-St Paul International/Wold-Chamberlain Airport,44.88199997,-93.22180176,,NA,US,US-MN,Minneapolis,yes,MSP
+3711,large_airport,Louis Armstrong New Orleans International Airport,29.99340057,-90.25800323,,NA,US,US-LA,New Orleans,yes,MSY
+3715,large_airport,Mountain Home Air Force Base,43.043598,-115.872002,,NA,US,US-ID,Mountain Home,no,MUO
+3744,large_airport,Metropolitan Oakland International Airport,37.721298,-122.221001,,NA,US,US-CA,Oakland,yes,OAK
+3747,large_airport,Will Rogers World Airport,35.39310074,-97.60070038,,NA,US,US-OK,Oklahoma City,yes,OKC
+3752,large_airport,Ontario International Airport,34.05599976,-117.6009979,,NA,US,US-CA,Ontario,yes,ONT
+3754,large_airport,Chicago O'Hare International Airport,41.97859955,-87.90480042,,NA,US,US-IL,Chicago,yes,ORD
+3755,large_airport,Norfolk International Airport,36.89459991,-76.20120239,,NA,US,US-VA,Norfolk,yes,ORF
+3765,large_airport,Tyndall Air Force Base,30.06959915,-85.57540131,,NA,US,US-FL,Panama City,no,PAM
+3766,large_airport,Palm Beach International Airport,26.68320084,-80.09559631,,NA,US,US-FL,West Palm Beach,yes,PBI
+3768,large_airport,Portland International Airport,45.58869934,-122.5979996,,NA,US,US-OR,Portland,yes,PDX
+3770,large_airport,Newport News Williamsburg International Airport,37.13190079,-76.49299622,,NA,US,US-VA,Newport News,yes,PHF
+3771,large_airport,Philadelphia International Airport,39.87189865,-75.2410965,,NA,US,US-PA,Philadelphia,yes,PHL
+3772,large_airport,Phoenix Sky Harbor International Airport,33.43429947,-112.012001,,NA,US,US-AZ,Phoenix,yes,PHX
+3773,large_airport,General Wayne A. Downing Peoria International Airport,40.66419983,-89.69329834,,NA,US,US-IL,Peoria,yes,PIA
+3778,large_airport,Pittsburgh International Airport,40.49150085,-80.23290253,,NA,US,US-PA,Pittsburgh,yes,PIT
+3796,large_airport,Portland International Jetport Airport,43.64619827,-70.30930328,,NA,US,US-ME,Portland,yes,PWM
+3844,large_airport,Raleigh Durham International Airport,35.87760162,-78.78749847,,NA,US,US-NC,Raleigh/Durham,yes,RDU
+3845,large_airport,Chicago Rockford International Airport,42.19540024,-89.09719849,,NA,US,US-IL,Chicago/Rockford,yes,RFD
+3847,large_airport,Richmond International Airport,37.50519943,-77.31970215,,NA,US,US-VA,Richmond,yes,RIC
+3852,large_airport,Randolph Air Force Base,29.52969933,-98.27890015,,NA,US,US-TX,Universal City,no,RND
+3853,large_airport,Reno Tahoe International Airport,39.49909973,-119.7679977,,NA,US,US-NV,Reno,yes,RNO
+3854,large_airport,Roanokeâ€“Blacksburg Regional Airport,37.3255,-79.975403,,NA,US,US-VA,Roanoke,yes,ROA
+3855,large_airport,Greater Rochester International Airport,43.1189003,-77.67240143,,NA,US,US-NY,Rochester,yes,ROC
+3857,large_airport,Rochester International Airport,43.90829849,-92.5,,NA,US,US-MN,Rochester,yes,RST
+3858,large_airport,Southwest Florida International Airport,26.53619957,-81.75520325,,NA,US,US-FL,Fort Myers,yes,RSW
+3862,large_airport,San Diego International Airport,32.73360062,-117.1900024,,NA,US,US-CA,San Diego,yes,SAN
+3863,large_airport,San Antonio International Airport,29.53370094,-98.46980286,,NA,US,US-TX,San Antonio,yes,SAT
+3864,large_airport,Savannah Hilton Head International Airport,32.12760162,-81.20210266,,NA,US,US-GA,Savannah,yes,SAV
+3868,large_airport,South Bend Regional Airport,41.70869827,-86.31729889,,NA,US,US-IN,South Bend,yes,SBN
+3873,large_airport,Louisville International Standiford Field,38.1744,-85.736,,NA,US,US-KY,Louisville,yes,SDF
+3875,large_airport,Seattle Tacoma International Airport,47.44900131,-122.3089981,,NA,US,US-WA,Seattle,yes,SEA
+3876,large_airport,Orlando Sanford International Airport,28.77759933,-81.23750305,,NA,US,US-FL,Orlando,yes,SFB
+3878,large_airport,San Francisco International Airport,37.61899948,-122.375,,NA,US,US-CA,San Francisco,yes,SFO
+3879,large_airport,Springfield Branson National Airport,37.24570084,-93.38860321,,NA,US,US-MO,Springfield,yes,SGF
+3882,large_airport,Shreveport Regional Airport,32.44660187,-93.82559967,,NA,US,US-LA,Shreveport,yes,SHV
+3883,large_airport,Norman Y. Mineta San Jose International Airport,37.362598,-121.929001,,NA,US,US-CA,San Jose,yes,SJC
+3885,large_airport,Fairchild Air Force Base,47.61510086,-117.6559982,,NA,US,US-WA,Spokane,no,SKA
+3887,large_airport,Salt Lake City International Airport,40.78839874,-111.9779968,,NA,US,US-UT,Salt Lake City,yes,SLC
+3892,large_airport,Sacramento International Airport,38.69540024,-121.5910034,,NA,US,US-CA,Sacramento,yes,SMF
+3894,large_airport,John Wayne Airport-Orange County Airport,33.67570114,-117.8679962,,NA,US,US-CA,Santa Ana,yes,SNA
+3897,large_airport,Abraham Lincoln Capital Airport,39.84410095,-89.67790222,,NA,US,US-IL,Springfield,yes,SPI
+3898,large_airport,Sheppard Air Force Base-Wichita Falls Municipal Airport,33.9888,-98.491898,,NA,US,US-TX,Wichita Falls,yes,SPS
+3899,large_airport,Sarasota Bradenton International Airport,27.39539909,-82.55439758,,NA,US,US-FL,Sarasota/Bradenton,yes,SRQ
+3901,large_airport,Shaw Air Force Base,33.97269821,-80.47059631,,NA,US,US-SC,Sumter,no,SSC
+3905,large_airport,St Louis Lambert International Airport,38.748697,-90.370003,,NA,US,US-MO,St Louis,yes,STL
+3907,large_airport,Spirit of St Louis Airport,38.66210175,-90.65200043,,NA,US,US-MO,St Louis,no,SUS
+3908,large_airport,Travis Air Force Base,38.26269913,-121.927002,,NA,US,US-CA,Fairfield,no,SUU
+3909,large_airport,Sioux Gateway Col. Bud Day Field,42.40259933,-96.38439941,,NA,US,US-IA,Sioux City,yes,SUX
+3913,large_airport,Syracuse Hancock International Airport,43.11119843,-76.10630035,,NA,US,US-NY,Syracuse,yes,SYR
+3914,large_airport,Whiteman Air Force Base,38.7303009,-93.54789734,,NA,US,US-MO,Knob Noster,no,SZL
+3918,large_airport,McChord Air Force Base,47.13769913,-122.4759979,,NA,US,US-WA,Tacoma,no,TCM
+3921,large_airport,Tinker Air Force Base,35.41469955,-97.38659668,,NA,US,US-OK,Oklahoma City,no,TIK
+3924,large_airport,Tallahassee Regional Airport,30.39649963,-84.35030365,,NA,US,US-FL,Tallahassee,yes,TLH
+3925,large_airport,Toledo Express Airport,41.58679962,-83.80780029,,NA,US,US-OH,Toledo,yes,TOL
+3926,large_airport,Tampa International Airport,27.97550011,-82.53320313,,NA,US,US-FL,Tampa,yes,TPA
+3928,large_airport,Tri-Cities Regional TN/VA Airport,36.475201,-82.407401,,NA,US,US-TN,Bristol/Johnson/Kingsport,yes,TRI
+3930,large_airport,Tulsa International Airport,36.19839859,-95.88809967,,NA,US,US-OK,Tulsa,yes,TUL
+3932,large_airport,Tucson International Airport,32.11610031,-110.9410019,,NA,US,US-AZ,Tucson,yes,TUS
+3938,large_airport,McGhee Tyson Airport,35.81100082,-83.9940033,,NA,US,US-TN,Knoxville,yes,TYS
+3944,large_airport,Vandenberg Air Force Base,34.73730087,-120.5839996,,NA,US,US-CA,Lompoc,no,VBG
+3948,large_airport,Destin-Ft Walton Beach Airport,30.4832,-86.525398,,NA,US,US-FL,Valparaiso,yes,VPS
+3951,large_airport,Robins Air Force Base,32.64009857,-83.59190369,,NA,US,US-GA,Warner Robins,no,WRB
+3972,large_airport,Tirana International Airport Mother Teresa,41.41469955,19.72060013,,EU,AL,AL-11,Tirana,yes,TIA
+3974,large_airport,Burgas Airport,42.56959915,27.51519966,,EU,BG,BG-02,Burgas,yes,BOJ
+3977,large_airport,Sofia Airport,42.69669342,23.41143608,,EU,BG,BG-23,Sofia,yes,SOF
+3979,large_airport,Varna Airport,43.232101,27.8251,,EU,BG,BG-03,Varna,yes,VAR
+3980,large_airport,Larnaca International Airport,34.87509918,33.62490082,,AS,CY,CY-04,Larnarca,yes,LCA
+3981,large_airport,Paphos International Airport,34.7179985,32.4856987,,AS,CY,CY-06,Paphos,yes,PFO
+3982,large_airport,RAF Akrotiri,34.590401,32.9879,,EU,GB,GB-U-A,Akrotiri,yes,AKT
+3993,large_airport,Zagreb Airport,45.74290085,16.06879997,,EU,HR,HR-21,Zagreb,yes,ZAG
+3997,large_airport,Alicante International Airport,38.28219986,-0.558156013,,EU,ES,ES-V,Alicante,yes,ALC
+4004,large_airport,Barcelona International Airport,41.29710007,2.078459978,,EU,ES,ES-CT,Barcelona,yes,BCN
+4019,large_airport,Adolfo SuÃ¡rez Madridâ€“Barajas Airport,40.471926,-3.56264,,EU,ES,ES-M,Madrid,yes,MAD
+4020,large_airport,MÃ¡laga Airport,36.67490005,-4.499110222,,EU,ES,ES-AN,MÃ¡laga,yes,AGP
+4035,large_airport,Palma De Mallorca Airport,39.55170059,2.738810062,,EU,ES,ES-PM,Palma De Mallorca,yes,PMI
+4038,large_airport,Santiago de Compostela Airport,42.89630127,-8.415140152,,EU,ES,ES-GA,Santiago de Compostela,yes,SCQ
+4060,large_airport,Bordeaux-MÃ©rignac Airport,44.82830048,-0.715556026,,EU,FR,FR-B,Bordeaux/MÃ©rignac,yes,BOD
+4070,large_airport,Toulouse-Blagnac Airport,43.629101,1.36382,,EU,FR,FR-N,Toulouse/Blagnac,yes,TLS
+4137,large_airport,Lyon Saint-ExupÃ©ry Airport,45.725556,5.081111,,EU,FR,FR-V,Lyon,yes,LYS
+4155,large_airport,Marseille Provence Airport,43.43927192,5.221424103,,EU,FR,FR-U,Marseille,yes,MRS
+4156,large_airport,Nice-CÃ´te d'Azur Airport,43.65840149,7.215869904,,EU,FR,FR-U,Nice,yes,NCE
+4185,large_airport,Charles de Gaulle International Airport,49.01279831,2.549999952,,EU,FR,FR-J,Paris,yes,CDG
+4189,large_airport,Paris-Orly Airport,48.7233333,2.3794444,,EU,FR,FR-J,Paris,yes,ORY
+4226,large_airport,EuroAirport Basel-Mulhouse-Freiburg Airport,47.59,7.5291667,,EU,FR,FR-A,BÃ¢le/Mulhouse,yes,BSL
+4251,large_airport,Eleftherios Venizelos International Airport,37.93640137,23.94449997,,EU,GR,GR-A1,Athens,yes,ATH
+4258,large_airport,Heraklion International Nikos Kazantzakis Airport,35.33969879,25.18029976,,EU,GR,GR-91,Heraklion,yes,HER
+4293,large_airport,Thessaloniki Macedonia International Airport,40.5196991,22.97089958,,EU,GR,GR-54,Thessaloniki,yes,SKG
+4296,large_airport,Budapest Ferenc Liszt International Airport,47.43690109,19.25559998,,EU,HU,HU-PE,Budapest,yes,BUD
+4310,large_airport,Bari Karol WojtyÅ‚a Airport,41.138901,16.760599,,EU,IT,IT-75,Bari,yes,BRI
+4318,large_airport,Catania-Fontanarossa Airport,37.466801,15.0664,,EU,IT,IT-82,Catania,yes,CTA
+4321,large_airport,Falconeâ€“Borsellino Airport,38.175999,13.091,,EU,IT,IT-82,Palermo,yes,PMO
+4332,large_airport,Cagliari Elmas Airport,39.251499,9.05428,,EU,IT,IT-88,Cagliari,yes,CAG
+4340,large_airport,Malpensa International Airport,45.6306,8.72811,,EU,IT,IT-25,Milan,yes,MXP
+4341,large_airport,Il Caravaggio International Airport,45.673901,9.70417,,EU,IT,IT-25,Bergamo,yes,BGY
+4342,large_airport,Turin Airport,45.200802,7.64963,,EU,IT,IT-21,Torino,yes,TRN
+4344,large_airport,Genoa Cristoforo Colombo Airport,44.4133,8.8375,,EU,IT,IT-42,Genova,yes,GOA
+4345,large_airport,Milano Linate Airport,45.445099,9.27674,,EU,IT,IT-25,Milan,yes,LIN
+4354,large_airport,Bologna Guglielmo Marconi Airport,44.5354,11.2887,,EU,IT,IT-45,Bologna,yes,BLQ
+4355,large_airport,Treviso-Sant'Angelo Airport,45.648399,12.1944,,EU,IT,IT-34,Treviso,yes,TSF
+4366,large_airport,Verona Villafranca Airport,45.395699,10.8885,,EU,IT,IT-34,Verona,yes,VRN
+4368,large_airport,Venice Marco Polo Airport,45.505299,12.3519,,EU,IT,IT-34,Venice,yes,VCE
+4370,large_airport,Ciampinoâ€“G. B. Pastine International Airport,41.7994,12.5949,,EU,IT,IT-62,Rome,yes,CIA
+4372,large_airport,Leonardo da Vinciâ€“Fiumicino Airport,41.8002778,12.2388889,,EU,IT,IT-62,Rome,yes,FCO
+4378,large_airport,Naples International Airport,40.886002,14.2908,,EU,IT,IT-72,NÃ¡poli,yes,NAP
+4379,large_airport,Pisa International Airport,43.683899,10.3927,,EU,IT,IT-52,Pisa,yes,PSA
+4386,large_airport,Ljubljana JoÅ¾e PuÄnik Airport,46.223701,14.4576,,EU,SI,SI-061,Ljubljana,yes,LJU
+4408,large_airport,VÃ¡clav Havel Airport Prague,50.1008,14.26,,EU,CZ,CZ-PR,Prague,yes,PRG
+4411,large_airport,Ben Gurion International Airport,32.01139832,34.88669968,,AS,IL,IL-M,Tel Aviv,yes,TLV
+4423,large_airport,Ovda International Airport,29.94029999,34.93579865,,AS,IL,IL-D,Eilat,yes,VDA
+4427,large_airport,Malta International Airport,35.857498,14.4775,,EU,MT,MT-25,Valletta,yes,MLA
+4434,large_airport,Vienna International Airport,48.11029816,16.56970024,,EU,AT,AT-9,Vienna,yes,VIE
+4448,large_airport,Faro Airport,37.01440048,-7.965909958,,EU,PT,PT-08,Faro,yes,FAO
+4451,large_airport,Lajes Airport,38.761799,-27.090799,,EU,PT,PT-20,Praia da VitÃ³ria,yes,TER
+4456,large_airport,JoÃ£o Paulo II Airport,37.74119949,-25.69790077,,EU,PT,PT-20,Ponta Delgada,yes,PDL
+4459,large_airport,Francisco de SÃ¡ Carneiro Airport,41.24810028,-8.681389809,,EU,PT,PT-13,Porto,yes,OPO
+4461,large_airport,Humberto Delgado Airport (Lisbon Portela Airport),38.7813,-9.13592,,EU,PT,PT-11,Lisbon,yes,LIS
+4469,large_airport,Sarajevo International Airport,43.82460022,18.3314991,,EU,BA,BA-BIH,Sarajevo,yes,SJJ
+4482,large_airport,Henri CoandÄƒ International Airport,44.5711111,26.085,,EU,RO,RO-B,Bucharest,yes,OTP
+4490,large_airport,Geneva Cointrin International Airport,46.23809814,6.108950138,,EU,CH,CH-GE,Geneva,yes,GVA
+4505,large_airport,ZÃ¼rich Airport,47.464699,8.54917,,EU,CH,CH-ZH,Zurich,yes,ZRH
+4509,large_airport,EsenboÄŸa International Airport,40.12810135,32.99509811,,AS,TR,TR-06,Ankara,yes,ESB
+4512,large_airport,Adana Airport,36.98220062,35.28039932,,AS,TR,TR-01,Adana,yes,ADA
+4515,large_airport,Antalya International Airport,36.898701,30.800501,,AS,TR,TR-07,Antalya,yes,AYT
+4516,large_airport,Gaziantep International Airport,36.94720078,37.47869873,,AS,TR,TR-27,Gaziantep,yes,GZT
+4528,large_airport,AtatÃ¼rk International Airport,40.976898,28.8146,,AS,TR,TR-34,Istanbul,yes,IAT
+4533,large_airport,Adnan Menderes International Airport,38.29240036,27.15699959,,AS,TR,TR-35,Ä°zmir,yes,ADB
+4542,large_airport,Dalaman International Airport,36.71310043,28.79249954,,AS,TR,TR-48,Dalaman,yes,DLM
+4551,large_airport,Erzurum International Airport,39.95650101,41.17020035,,AS,TR,TR-25,Erzurum,yes,ERZ
+4553,large_airport,Trabzon International Airport,40.99509811,39.78969955,,AS,TR,TR-61,Trabzon,yes,TZX
+4565,large_airport,SÃ¼leyman Demirel International Airport,37.85540009,30.36840057,,AS,TR,TR-32,Isparta,yes,ISE
+4567,large_airport,Milas Bodrum International Airport,37.25059891,27.66430092,,AS,TR,TR-48,Bodrum,yes,BJV
+4569,large_airport,Sabiha GÃ¶kÃ§en International Airport,40.89860153,29.30920029,,AS,TR,TR-34,Istanbul,yes,SAW
+4610,large_airport,Belgrade Nikola Tesla Airport,44.81840134,20.3090992,,EU,RS,RS-00,Belgrade,yes,BEG
+4613,large_airport,Podgorica Airport,42.359402,19.2519,,EU,ME,ME-16,Podgorica,yes,TGD
+4617,large_airport,M. R. Å tefÃ¡nik Airport,48.17020035,17.21269989,,EU,SK,SK-BL,Bratislava,yes,BTS
+4636,large_airport,Punta Cana International Airport,18.56739998,-68.36340332,,NA,DO,DO-11,Punta Cana,yes,PUJ
+4638,large_airport,Las AmÃ©ricas International Airport,18.42970085,-69.66889954,,NA,DO,DO-01,Santo Domingo,yes,SDQ
+4680,large_airport,Norman Manley International Airport,17.93569946,-76.78749847,,NA,JM,JM-01,Kingston,yes,KIN
+4688,large_airport,General Juan N Alvarez International Airport,16.75709915,-99.7539978,,NA,MX,MX-GRO,Acapulco,yes,ACA
+4710,large_airport,Don Miguel Hidalgo Y Costilla International Airport,20.52179909,-103.310997,,NA,MX,MX-JAL,Guadalajara,yes,GDL
+4713,large_airport,General Ignacio P. Garcia International Airport,29.09589958,-111.0479965,,NA,MX,MX-SON,Hermosillo,yes,HMO
+4731,large_airport,Licenciado Benito Juarez International Airport,19.4363,-99.072098,,NA,MX,MX-DIF,Mexico City,yes,MEX
+4732,large_airport,General Mariano Escobedo International Airport,25.7784996,-100.1070023,,NA,MX,MX-NLE,Monterrey,yes,MTY
+4745,large_airport,Licenciado Gustavo DÃ­az Ordaz International Airport,20.68009949,-105.2539978,,NA,MX,MX-JAL,Puerto Vallarta,yes,PVR
+4750,large_airport,Los Cabos International Airport,23.15180016,-109.7210007,,NA,MX,MX-BCS,San JosÃ© del Cabo,yes,SJD
+4757,large_airport,General Abelardo L. RodrÃ­guez International Airport,32.54109955,-116.9700012,,NA,MX,MX-BCN,Tijuana,yes,TIJ
+4762,large_airport,CancÃºn International Airport,21.03650093,-86.87709808,,NA,MX,MX-ROO,CancÃºn,yes,CUN
+4793,large_airport,Tocumen International Airport,9.071359634,-79.38349915,,NA,PA,PA-8,Tocumen,yes,PTY
+4806,large_airport,Daniel Oduber Quiros International Airport,10.5933,-85.544403,,NA,CR,CR-G,Liberia,yes,LIR
+4820,large_airport,MonseÃ±or Ã“scar Arnulfo Romero International Airport,13.4409,-89.055702,,NA,SV,SV-PA,San Salvador (San Luis Talpa),yes,SAL
+4839,large_airport,JosÃ© MartÃ­ International Airport,22.98920059,-82.40910339,,NA,CU,CU-03,Havana,yes,HAV
+4859,large_airport,Juan Gualberto Gomez International Airport,23.03440094,-81.43530273,,NA,CU,CU-04,Varadero,yes,VRA
+4862,large_airport,Owen Roberts International Airport,19.2928009,-81.35769653,,NA,KY,KY-U-A,Georgetown,yes,GCM
+4951,large_airport,Lynden Pindling International Airport,25.03899956,-77.46620178,,NA,BS,BS-NP,Nassau,yes,NAS
+4956,large_airport,Philip S. W. Goldson International Airport,17.53910065,-88.30819702,,NA,BZ,BZ-BZ,Belize City,yes,BZE
+4958,large_airport,Rarotonga International Airport,-21.20269966,-159.8059998,,OC,CK,CK-U-A,Avarua,yes,RAR
+5023,large_airport,Auckland International Airport,-37.0080986,174.7920074,,OC,NZ,NZ-AUK,Auckland,yes,AKL
+5026,large_airport,Christchurch International Airport,-43.48939896,172.5319977,,OC,NZ,NZ-CAN,Christchurch,yes,CHC
+5063,large_airport,Wellington International Airport,-41.32720184,174.8049927,,OC,NZ,NZ-WGN,Wellington,yes,WLG
+5079,large_airport,Bahrain International Airport,26.27079964,50.63359833,,AS,BH,BH-15,Manama,yes,BAH
+5087,large_airport,King Fahd International Airport,26.47120094,49.79790115,,AS,SA,SA-04,Ad Dammam,yes,DMM
+5097,large_airport,King Abdulaziz International Airport,21.6796,39.156502,,AS,SA,SA-02,Jeddah,yes,JED
+5101,large_airport,Prince Mohammad Bin Abdulaziz Airport,24.5534,39.705101,,AS,SA,SA-03,Medina,yes,MED
+5112,large_airport,King Khaled International Airport,24.95759964,46.69879913,,AS,SA,SA-01,Riyadh,yes,RUH
+5166,large_airport,Imam Khomeini International Airport,35.41609955,51.15219879,,AS,IR,IR-07,Tehran,yes,IKA
+5168,large_airport,Mehrabad International Airport,35.68920135,51.31340027,,AS,IR,IR-07,Tehran,yes,THR
+5183,large_airport,Mashhad International Airport,36.23519897,59.64099884,,AS,IR,IR-30,Mashhad,yes,MHD
+5197,large_airport,Shiraz Shahid Dastghaib International Airport,29.53919983,52.58980179,,AS,IR,IR-14,Shiraz,yes,SYZ
+5204,large_airport,Tabriz International Airport,38.13389969,46.23500061,,AS,IR,IR-01,Tabriz,yes,TBZ
+5212,large_airport,Queen Alia International Airport,31.72260094,35.99319839,,AS,JO,JO-AM,Amman,yes,AMM
+5220,large_airport,Kuwait International Airport,29.22660065,47.96889877,,AS,KW,KW-FA,Kuwait City,yes,KWI
+5222,large_airport,Beirut Rafic Hariri International Airport,33.82089996,35.48839951,,AS,LB,LB-JL,Beirut,yes,BEY
+299738,large_airport,Duqm International Airport,19.501944,57.634167,,AS,OM,OM-WU,Duqm,yes,DQM
+299747,large_airport,Rustaq Airport,23.640556,57.4875,,AS,OM,OM-BA,Al Masna'ah,no,MNH
+5226,large_airport,Abu Dhabi International Airport,24.43300056,54.65110016,,AS,AE,AE-AZ,Abu Dhabi,yes,AUH
+5235,large_airport,Dubai International Airport,25.25279999,55.36439896,,AS,AE,AE-DU,Dubai,yes,DXB
+300320,large_airport,Al Maktoum International Airport,24.896356,55.161389,,AS,AE,AE-DU,Jebel Ali,yes,DWC
+5239,large_airport,Sharjah International Airport,25.32859993,55.51720047,,AS,AE,AE-SH,Sharjah,yes,SHJ
+5242,large_airport,Muscat International Airport,23.59329987,58.28440094,,AS,OM,OM-MA,Muscat,yes,MCT
+5274,large_airport,Benazir Bhutto International Airport,33.61669922,73.09919739,,AS,PK,PK-IS,Islamabad,yes,ISB
+41624,large_airport,Sialkot Airport,32.53555679,74.3638916,,AS,PK,PK-PB,Sialkot,yes,SKT
+5289,large_airport,Baghdad International Airport,33.26250076,44.23460007,,AS,IQ,IQ-BG,Baghdad,yes,BGW
+5294,large_airport,Basrah International Airport,30.54910088,47.66210175,,AS,IQ,IQ-BA,Basrah,yes,BSR
+5302,large_airport,Aleppo International Airport,36.18069839,37.22439957,,AS,SY,SY-HL,Aleppo,yes,ALP
+5303,large_airport,Damascus International Airport,33.41149902,36.5155983,,AS,SY,SY-DI,Damascus,yes,DAM
+5306,large_airport,Bassel Al-Assad International Airport,35.40110016,35.94869995,,AS,SY,SY-LA,Latakia,yes,LTK
+5360,large_airport,Fairbanks International Airport,64.81510162,-147.8560028,,NA,US,US-AK,Fairbanks,yes,FAI
+5388,large_airport,Ted Stevens Anchorage International Airport,61.17440033,-149.9960022,,NA,US,US-AK,Anchorage,yes,ANC
+5433,large_airport,Antonio B. Won Pat International Airport,13.48340034,144.7960052,,OC,GU,GU-U-A,"HagÃ¥tÃ±a, Guam International Airport",yes,GUM
+308633,large_airport,Laguindingan Airport,8.612203,124.456496,,AS,PH,PH-MSR,Cagayan de Oro City,yes,CGY
+5453,large_airport,Daniel K Inouye International Airport,21.32062,-157.924228,,NA,US,US-HI,Honolulu,yes,HNL
+30601,large_airport,New Islamabad International Airport,33.560713,72.851613,,AS,PK,PK-IS,Islamabad,yes,ISB
+44686,large_airport,Hamad International Airport,25.273056,51.608056,,AS,QA,QA-DA,Doha,yes,DOH
+5510,large_airport,Kinmen Airport,24.4279,118.359001,,AS,TW,TW-X-KM,Shang-I,yes,KNH
+5516,large_airport,Kaohsiung International Airport,22.57710075,120.3499985,,AS,TW,TW-KHH,Kaohsiung City,yes,KHH
+5528,large_airport,Taiwan Taoyuan International Airport,25.0777,121.233002,,AS,TW,TW-TAO,Taipei,yes,TPE
+5531,large_airport,Narita International Airport,35.76470184,140.3860016,,AS,JP,JP-12,Tokyo,yes,NRT
+5536,large_airport,Kansai International Airport,34.4272995,135.2440033,,AS,JP,JP-27,Osaka,yes,KIX
+5544,large_airport,New Chitose Airport,42.77519989,141.6920013,,AS,JP,JP-01,Chitose / Tomakomai,yes,CTS
+5564,large_airport,Fukuoka Airport,33.58589935,130.451004,,AS,JP,JP-40,Fukuoka,yes,FUK
+5566,large_airport,Kagoshima Airport,31.80340004,130.7189941,,AS,JP,JP-46,Kagoshima,yes,KOJ
+5576,large_airport,Chubu Centrair International Airport,34.85839844,136.8049927,,AS,JP,JP-23,Tokoname,yes,NGO
+299238,large_airport,Mt. Fuji Shizuoka Airport,34.79604347,138.1877518,,AS,JP,JP-22,Makinohara / Shimada,yes,FSZ
+5598,large_airport,Osaka International Airport,34.78549957,135.4380035,,AS,JP,JP-27,Osaka,yes,ITM
+5627,large_airport,Tokyo Haneda International Airport,35.552299,139.779999,,AS,JP,JP-13,Tokyo,yes,HND
+5629,large_airport,Yokota Air Base,35.74850082,139.3480072,,AS,JP,JP-13,Fussa,no,OKO
+302303,large_airport,Muan International Airport,34.991406,126.382814,,AS,KR,KR-46,Piseo-ri (Muan),yes,MWX
+5631,large_airport,Kunsan Air Base,35.90380096,126.6159973,,AS,KR,KR-45,Kunsan,yes,KUV
+5639,large_airport,Jeju International Airport,33.51129913,126.4929962,,AS,KR,KR-49,Jeju City,yes,CJU
+5642,large_airport,Gimhae International Airport,35.17950058,128.9380035,,AS,KR,KR-26,Busan,yes,PUS
+5653,large_airport,Incheon International Airport,37.46910095,126.4509964,,AS,KR,KR-28,Seoul,yes,ICN
+5656,large_airport,Gimpo International Airport,37.5583,126.791,,AS,KR,KR-11,Seoul,yes,GMP
+5663,large_airport,Cheongju International Airport/Cheongju Air Base (K-59/G-513),36.717008,127.498741,,AS,KR,KR-43,Cheongju,yes,CJJ
+5671,large_airport,Naha Airport,26.19580078,127.6460037,,AS,JP,JP-47,Naha,yes,OKA
+5687,large_airport,Diosdado Macapagal International Airport,15.186,120.559998,,AS,PH,PH-PAM,Angeles/Mabalacat,yes,CRK
+5689,large_airport,Ninoy Aquino International Airport,14.5086,121.019997,,AS,PH,PH-U-A,Manila,yes,MNL
+5697,large_airport,Francisco Bangoy International Airport,7.125520229,125.6460037,,AS,PH,PH-DAV,Davao City,yes,DVO
+5742,large_airport,Mactan Cebu International Airport,10.30749989,123.9789963,,AS,PH,PH-CEB,Lapu-Lapu City,yes,CEB
+42924,large_airport,Grozny North Airport,43.388302,45.698601,,EU,RU,RU-CE,Grozny,yes,GRV
+5781,large_airport,Ministro Pistarini International Airport,-34.8222,-58.5358,,SA,AR,AR-B,Buenos Aires,yes,EZE
+5867,large_airport,Val de Cans/JÃºlio Cezar Ribeiro International Airport,-1.37925005,-48.47629929,,SA,BR,BR-PA,BelÃ©m,yes,BEL
+5872,large_airport,Presidente Juscelino Kubistschek International Airport,-15.86916733,-47.92083359,,SA,BR,BR-DF,BrasÃ­lia,yes,BSB
+5882,large_airport,Tancredo Neves International Airport,-19.62444305,-43.9719429,,SA,BR,BR-MG,Belo Horizonte,yes,CNF
+5891,large_airport,Afonso Pena Airport,-25.5284996,-49.17580032,,SA,BR,BR-PR,Curitiba,yes,CWB
+5901,large_airport,HercÃ­lio Luz International Airport,-27.67027855,-48.55250168,,SA,BR,BR-SC,FlorianÃ³polis,yes,FLN
+5906,large_airport,Rio GaleÃ£o â€“ Tom Jobim International Airport,-22.80999947,-43.25055695,,SA,BR,BR-RJ,Rio De Janeiro,yes,GIG
+5910,large_airport,Guarulhos - Governador AndrÃ© Franco Montoro International Airport,-23.43555641,-46.47305679,,SA,BR,BR-SP,SÃ£o Paulo,yes,GRU
+313262,large_airport,Governador AluÃ­zio Alves International Airport,-5.768056,-35.376111,,SA,BR,BR-RN,Natal,yes,NAT
+5974,large_airport,Congonhas Airport,-23.62611008,-46.65638733,,SA,BR,BR-SP,SÃ£o Paulo,yes,CGH
+5977,large_airport,Deputado Luiz Eduardo MagalhÃ£es International Airport,-12.9086113,-38.32249832,,SA,BR,BR-BA,Salvador,yes,SSA
+6015,large_airport,Comodoro Arturo Merino BenÃ­tez International Airport,-33.39300156,-70.78579712,,SA,CL,CL-RM,Santiago,yes,SCL
+6061,large_airport,Cotopaxi International Airport,-0.906832993,-78.61579895,,SA,EC,EC-X,Latacunga,yes,LTX
+308273,large_airport,Mariscal Sucre International Airport,-0.129166667,-78.3575,,SA,EC,EC-P,Quito,yes,UIO
+6104,large_airport,El Dorado International Airport,4.70159,-74.1469,,SA,CO,CO-CUN,Bogota,yes,BOG
+6217,large_airport,Jorge ChÃ¡vez International Airport,-12.0219,-77.114305,,SA,PE,PE-LIM,Lima,yes,LIM
+6243,large_airport,Alejandro Velasco Astete International Airport,-13.53569984,-71.938797,,SA,PE,PE-CUS,Cusco,yes,CUZ
+6247,large_airport,Carrasco International /General C L Berisso Airport,-34.838402,-56.0308,,SA,UY,UY-CA,Montevideo,yes,MVD
+6255,large_airport,General JosÃ© Antonio Anzoategui International Airport,10.11111111,-64.69222222,,SA,VE,VE-B,Barcelona,yes,BLA
+6300,large_airport,SimÃ³n BolÃ­var International Airport,10.601194,-66.991222,,SA,VE,VE-X,Caracas,yes,CCS
+6366,large_airport,Pointe-Ã -Pitre Le Raizet,16.265301,-61.531799,,NA,GP,GP-U-A,Pointe-Ã -Pitre,yes,PTP
+6384,large_airport,Luis Munoz Marin International Airport,18.43939972,-66.00180054,,NA,PR,PR-U-A,San Juan,yes,SJU
+44483,large_airport,Enfidha - Hammamet International Airport,36.075833,10.438611,,AF,TN,TN-51,Enfidha,yes,NBE
+6406,large_airport,Princess Juliana International Airport,18.04100037,-63.10889816,,NA,SX,SX-U-A,Saint Martin,yes,SXM
+6421,large_airport,Almaty Airport,43.35210037,77.04049683,,AS,KZ,KZ-ALM,Almaty,yes,ALA
+6423,large_airport,Astana International Airport,51.02220154,71.46690369,,AS,KZ,KZ-AKM,Astana,yes,TSE
+6426,large_airport,Manas International Airport,43.06129837,74.4776001,,AS,KG,KG-C,Bishkek,yes,FRU
+6431,large_airport,Sary-Arka Airport,49.67079926,73.33439636,,AS,KZ,KZ-KAR,Karaganda,yes,KGF
+6440,large_airport,Heydar Aliyev International Airport,40.46749878,50.04669952,,AS,AZ,AZ-BA,Baku,yes,GYD
+6446,large_airport,Zvartnots International Airport,40.14730072,44.39590073,,AS,AM,AM-ER,Yerevan,yes,EVN
+6453,large_airport,Tbilisi International Airport,41.6692009,44.95470047,,AS,GE,GE-TB,Tbilisi,yes,TBS
+6455,large_airport,Khabarovsk-Novy Airport,48.52799988,135.1880035,,AS,RU,RU-KHA,Khabarovsk,yes,KHV
+6467,large_airport,Boryspil International Airport,50.34500122,30.8946991,,EU,UA,UA-32,Kiev,yes,KBP
+6474,large_airport,Simferopol International Airport,45.05220032,33.97510147,,EU,UA,UA-43,Simferopol,yes,SIP
+6476,large_airport,Kharkiv International Airport,49.92480087,36.29000092,,EU,UA,UA-63,Kharkiv,yes,HRK
+6487,large_airport,Odessa International Airport,46.42679977,30.67650032,,EU,UA,UA-51,Odessa,yes,ODS
+6489,large_airport,Pulkovo Airport,59.8003006,30.26250076,,EU,RU,RU-SPE,St. Petersburg,yes,LED
+6501,large_airport,Minsk National Airport,53.88249969,28.03070068,,EU,BY,BY-MI,Minsk,yes,MSQ
+6506,large_airport,Yemelyanovo Airport,56.172901,92.493301,,EU,RU,RU-KYA,Krasnoyarsk,yes,KJA
+6507,large_airport,Tolmachevo Airport,55.01259995,82.65070343,,AS,RU,RU-NVS,Novosibirsk,yes,OVB
+326363,large_airport,Platov International Airport,47.493888,39.924722,,EU,RU,RU-ROS,Rostov-on-Don,yes,ROV
+6519,large_airport,Sochi International Airport,43.449902,39.9566,,EU,RU,RU-KDA,Sochi,yes,AER
+26378,large_airport,Koltsovo Airport,56.74309921,60.80270004,,AS,RU,RU-SVE,Yekaterinburg,yes,SVX
+26392,large_airport,Tashkent International Airport,41.25790024,69.28119659,,AS,UZ,UZ-TO,Tashkent,yes,TAS
+42967,large_airport,Zhukovsky International Airport,55.553299,38.150002,,EU,RU,RU-MOS,Zhukovsky,yes,ZIA
+26394,large_airport,Domodedovo International Airport,55.40879822,37.90629959,,EU,RU,RU-MOS,Moscow,yes,DME
+26396,large_airport,Sheremetyevo International Airport,55.972599,37.4146,,EU,RU,RU-MOS,Moscow,yes,SVO
+26401,large_airport,Vnukovo International Airport,55.59149933,37.26150131,,EU,RU,RU-MOS,Moscow,yes,VKO
+26404,large_airport,Kazan International Airport,55.60620117,49.27870178,,EU,RU,RU-TA,Kazan,yes,KZN
+26411,large_airport,Ufa International Airport,54.55749893,55.87440109,,EU,RU,RU-BA,Ufa,yes,UFA
+26412,large_airport,Kurumoch International Airport,53.50490189,50.16429901,,EU,RU,RU-SAM,Samara,yes,KUF
+26434,large_airport,Chhatrapati Shivaji International Airport,19.08869934,72.86789703,,AS,IN,IN-MM,Mumbai,yes,BOM
+26444,large_airport,Dabolim Airport,15.38080025,73.83139801,,AS,IN,IN-GA,Vasco da Gama,yes,GOI
+26463,large_airport,Bandaranaike International Colombo Airport,7.180759907,79.88410187,,AS,LK,LK-1,Colombo,yes,CMB
+26475,large_airport,Phnom Penh International Airport,11.54660034,104.8440018,,AS,KH,KH-8,Phnom Penh,yes,PNH
+26476,large_airport,Siem Reap International Airport,13.41069984,103.8130035,,AS,KH,KH-17,Siem Reap,yes,REP
+26496,large_airport,Netaji Subhash Chandra Bose International Airport,22.65469933,88.44670105,,AS,IN,IN-WB,Kolkata,yes,CCU
+26535,large_airport,Chek Lap Kok International Airport,22.30890083,113.9150009,,AS,HK,HK-U-A,Hong Kong,yes,HKG
+26540,large_airport,Sri Guru Ram Dass Jee International Airport,31.70960045,74.79730225,,AS,IN,IN-PB,Amritsar,yes,ATQ
+26555,large_airport,Indira Gandhi International Airport,28.5665,77.103104,,AS,IN,IN-DL,New Delhi,yes,DEL
+26589,large_airport,Macau International Airport,22.149599,113.592003,,AS,MO,MO-U-A,Macau,yes,MFM
+35145,large_airport,Kempegowda International Airport,13.1979,77.706299,,AS,IN,IN-KA,Bangalore,yes,BLR
+26609,large_airport,Cochin International Airport,10.152,76.401901,,AS,IN,IN-KL,Kochi,yes,COK
+26610,large_airport,Calicut International Airport,11.13679981,75.95529938,,AS,IN,IN-KL,Calicut,yes,CCJ
+35141,large_airport,Rajiv Gandhi International Airport,17.23131752,78.42985535,,AS,IN,IN-TG,Hyderabad,yes,HYD
+26618,large_airport,Chennai International Airport,12.99000549,80.16929626,,AS,IN,IN-TN,Chennai,yes,MAA
+26629,large_airport,Trivandrum International Airport,8.48211956,76.92009735,,AS,IN,IN-KL,Thiruvananthapuram,yes,TRV
+26636,large_airport,MalÃ© International Airport,4.191830158,73.52909851,,AS,MV,MV-MLE,MalÃ©,yes,MLE
+26638,large_airport,Don Mueang International Airport,13.91259956,100.6070023,,AS,TH,TH-10,Bangkok,yes,DMK
+28118,large_airport,Suvarnabhumi Airport,13.68109989,100.7470016,,AS,TH,TH-10,Bangkok,yes,BKK
+26647,large_airport,Chiang Mai International Airport,18.76679993,98.96260071,,AS,TH,TH-50,Chiang Mai,yes,CNX
+26674,large_airport,Phuket International Airport,8.1132,98.316902,,AS,TH,TH-83,Phuket,yes,HKT
+26697,large_airport,Da Nang International Airport,16.04389954,108.1989975,,AS,VN,VN-60,Da Nang,yes,DAD
+26700,large_airport,Noi Bai International Airport,21.22120094,105.8069992,,AS,VN,VN-15,Hanoi,yes,HAN
+26708,large_airport,Tan Son Nhat International Airport,10.81879997,106.6520004,,AS,VN,VN-23,Ho Chi Minh City,yes,SGN
+26727,large_airport,Mandalay International Airport,21.70219994,95.97789764,,AS,MM,MM-04,Mandalay,yes,MDL
+26744,large_airport,Yangon International Airport,16.90730095,96.1332016,,AS,MM,MM-06,Yangon,yes,RGN
+26745,large_airport,Hasanuddin International Airport,-5.061629772,119.5540009,,AS,ID,ID-SN,Ujung Pandang-Celebes Island,yes,UPG
+26751,large_airport,Ngurah Rai (Bali) International Airport,-8.748169899,115.1669998,,AS,ID,ID-BA,Denpasar-Bali Island,yes,DPS
+26789,large_airport,Juanda International Airport,-7.379829884,112.7870026,,AS,ID,ID-JI,Surabaya,yes,SUB
+32634,large_airport,Dominique Edward Osok Airport,-0.894,131.287,,AS,ID,ID-PB,Sorong-Papua Island,yes,SOQ
+26819,large_airport,Brunei International Airport,4.944200039,114.9280014,,AS,BN,BN-BM,Bandar Seri Begawan,yes,BWN
+26835,large_airport,Soekarno-Hatta International Airport,-6.12556982,106.6559982,,AS,ID,ID-BT,Jakarta,yes,CGK
+26874,large_airport,Kuala Lumpur International Airport,2.745579958,101.7099991,,AS,MY,MY-14,Kuala Lumpur,yes,KUL
+26887,large_airport,Singapore Changi Airport,1.35019,103.994003,,AS,SG,SG-04,Singapore,yes,SIN
+26901,large_airport,Brisbane International Airport,-27.38419914,153.1170044,,OC,AU,AU-QLD,Brisbane,yes,BNE
+27066,large_airport,Melbourne International Airport,-37.673302,144.843002,,OC,AU,AU-VIC,Melbourne,yes,MEL
+27096,large_airport,Adelaide International Airport,-34.945,138.531006,,OC,AU,AU-SA,Adelaide,yes,ADL
+27119,large_airport,Perth International Airport,-31.94029999,115.9670029,,OC,AU,AU-WA,Perth,yes,PER
+27131,large_airport,Canberra International Airport,-35.30690002,149.1950073,,OC,AU,AU-ACT,Canberra,yes,CBR
+27145,large_airport,Sydney Kingsford Smith International Airport,-33.94609833,151.177002,,OC,AU,AU-NSW,Sydney,yes,SYD
+27188,large_airport,Beijing Capital International Airport,40.08010101,116.5849991,,AS,CN,CN-11,Beijing,yes,PEK
+27189,large_airport,Baita International Airport,40.851398,111.823997,,AS,CN,CN-15,Hohhot,yes,HET
+44093,large_airport,Beijing Nanyuan Airport,39.78279877,116.3880005,,AS,CN,CN-11,Beijing,yes,NAY
+27192,large_airport,Tianjin Binhai International Airport,39.12440109,117.3460007,,AS,CN,CN-12,Tianjin,yes,TSN
+27193,large_airport,Taiyuan Wusu Airport,37.74689865,112.6279984,,AS,CN,CN-14,Taiyuan,yes,TYN
+27194,large_airport,Guangzhou Baiyun International Airport,23.39240074,113.2990036,,AS,CN,CN-44,Guangzhou,yes,CAN
+27195,large_airport,Changsha Huanghua International Airport,28.18919945,113.2200012,,AS,CN,CN-43,Changsha,yes,CSX
+27196,large_airport,Guilin Liangjiang International Airport,25.21809959,110.0390015,,AS,CN,CN-45,Guilin City,yes,KWL
+27197,large_airport,Nanning Wuxu Airport,22.60829926,108.1719971,,AS,CN,CN-45,Nanning,yes,NNG
+27198,large_airport,Shenzhen Bao'an International Airport,22.63929939,113.810997,,AS,CN,CN-44,Shenzhen,yes,SZX
+27199,large_airport,Zhengzhou Xinzheng International Airport,34.5196991,113.8410034,,AS,CN,CN-41,Zhengzhou,yes,CGO
+27200,large_airport,Wuhan Tianhe International Airport,30.7838,114.208,,AS,CN,CN-42,Wuhan,yes,WUH
+27201,large_airport,Haikou Meilan International Airport,19.93490028,110.4589996,,AS,CN,CN-46,Haikou,yes,HAK
+27202,large_airport,Sanya Phoenix International Airport,18.30290031,109.4120026,,AS,CN,CN-46,Sanya,yes,SYX
+27205,large_airport,Xi'an Xianyang International Airport,34.447102,108.751999,,AS,CN,CN-61,Xi'an,yes,XIY
+27214,large_airport,Kunming Changshui International Airport,25.1019444,102.9291667,,AS,CN,CN-53,Kunming,yes,KMG
+27215,large_airport,Xiamen Gaoqi International Airport,24.54400063,118.1279984,,AS,CN,CN-35,Xiamen,yes,XMN
+27217,large_airport,Fuzhou Changle International Airport,25.93510056,119.663002,,AS,CN,CN-35,Fuzhou,yes,FOC
+27218,large_airport,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,,AS,CN,CN-33,Hangzhou,yes,HGH
+27219,large_airport,Yaoqiang Airport,36.85720062,117.2160034,,AS,CN,CN-37,Jinan,yes,TNA
+27220,large_airport,Ningbo Lishe International Airport,29.82670021,121.461998,,AS,CN,CN-33,Ningbo,yes,NGB
+27221,large_airport,Nanjing Lukou Airport,31.74200058,118.8619995,,AS,CN,CN-32,Nanjing,yes,NKG
+27223,large_airport,Shanghai Pudong International Airport,31.14340019,121.8050003,,AS,CN,CN-31,Shanghai,yes,PVG
+27225,large_airport,Shanghai Hongqiao International Airport,31.19790077,121.3359985,,AS,CN,CN-31,Shanghai,yes,SHA
+32672,large_airport,Wenzhou Longwan International Airport,27.912201,120.851997,,AS,CN,CN-33,Wenzhou,yes,WNZ
+27228,large_airport,Chongqing Jiangbei International Airport,29.71920013,106.6419983,,AS,CN,CN-50,Chongqing,yes,CKG
+27229,large_airport,Longdongbao Airport,26.53849983,106.8010025,,AS,CN,CN-52,Guiyang,yes,KWE
+27230,large_airport,Chengdu Shuangliu International Airport,30.57850075,103.9469986,,AS,CN,CN-51,Chengdu,yes,CTU
+27236,large_airport,ÃœrÃ¼mqi Diwopu International Airport,43.90710068,87.47419739,,AS,CN,CN-65,ÃœrÃ¼mqi,yes,URC
+27238,large_airport,Taiping Airport,45.62340164,126.25,,AS,CN,CN-23,Harbin,yes,HRB
+27242,large_airport,Zhoushuizi Airport,38.96569824,121.5390015,,AS,CN,CN-21,Dalian,yes,DLC
+27243,large_airport,Taoxian Airport,41.63980103,123.4830017,,AS,CN,CN-21,Shenyang,yes,SHE

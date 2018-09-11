@@ -1,5 +1,5 @@
 ID: xsa-node-geospatial
-_schema-version: '2.1'
+_schema-version: '2.0'
 description: Demo map visualization application built on SAP HANA XSA using ArcGIS and Node.js
 version: 1.0.2018
 
@@ -38,9 +38,6 @@ modules:
      
 resources:
  - name: spatial-db
-   parameters:
-      config:
-         schema: SPATIAL_DB_DEMO
    properties:
       hdi-container-name: ${service-name}
    type: com.sap.xs.hdi-container
